@@ -10,7 +10,7 @@
 
 * [Octo Browser](https://octobrowser.net)
 
-* Gologin
+* [Gologin](https://gologin.com/) - 3 free profiles
 
 * AdsPower
 
