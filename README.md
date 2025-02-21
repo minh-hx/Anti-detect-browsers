@@ -11,3 +11,9 @@
 * Octo Browser
 
 * Gologin
+
+* AdsPower
+
+* Morelogin
+
+* Dolphin-anty
