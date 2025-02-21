@@ -5,3 +5,9 @@
 * NSTBrowser
 
 * Multilogin
+
+* Incogniton
+
+* Octo Browser
+
+* Gologin
