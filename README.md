@@ -4,7 +4,7 @@
 
 * [NSTBrowser](https://app.nstbrowser.io/) - 10 profiles open/day free
 
-* Multilogin
+* [Multilogin](https://multilogin.com/)
 
 * Incogniton
 
