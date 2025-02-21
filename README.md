@@ -17,3 +17,7 @@
 * Morelogin
 
 * Dolphin-anty
+
+* Kameleo
+
+* Vmlogin
