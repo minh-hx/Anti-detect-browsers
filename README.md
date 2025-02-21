@@ -6,13 +6,13 @@
 
 * [Multilogin](https://multilogin.com/)
 
-* [Incogniton](https://incogniton.com/) - 10 free for 2 months then 3
+* [Incogniton](https://incogniton.com/) - 3 free profiles
 
 * [Octo Browser](https://octobrowser.net)
 
 * [Gologin](https://gologin.com/) - 3 free profiles
 
-* AdsPower
+* [AdsPower](https://adspower.net/) - 2 free profiles
 
 * Morelogin
 
