@@ -1,1 +1,3 @@
 # Anti-detect-browsers
+
+* Undetectable
