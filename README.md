@@ -2,7 +2,7 @@
 
 * [Undetectable](https://undetectable.io/) - 5 cloud profiles free
 
-* NSTBrowser
+* [NSTBrowser](https://app.nstbrowser.io/) - 10 profiles open/day free
 
 * Multilogin
 
