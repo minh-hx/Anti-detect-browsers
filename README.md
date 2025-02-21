@@ -14,9 +14,9 @@
 
 * [AdsPower](https://adspower.net/) - 2 free profiles
 
-* Morelogin
+* [Morelogin](https://www.morelogin.com/) - 2 free profiles
 
-* Dolphin-anty
+* [Dolphin-anty](https://dolphin-anty.com/) - 10 free profiles
 
 * Kameleo
 
