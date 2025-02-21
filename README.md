@@ -8,7 +8,7 @@
 
 * [Incogniton](https://incogniton.com/) - 10 free for 2 months then 3
 
-* Octo Browser
+* [Octo Browser](https://octobrowser.net)
 
 * Gologin
 
